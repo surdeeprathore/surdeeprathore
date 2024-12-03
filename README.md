@@ -1,9 +1,16 @@
 💻 Surdeep Rathore
-Hi there! 👋 I'm Surdeep Rathore, a pre-final year Electrical Engineering undergraduate at NIT Delhi. I am passionate about web development, programming, and machine learning, constantly exploring and building innovative projects. 🚀
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Web+Developer;Problem+Solver;Tech+Enthusiast;Innovative+Learner" alt="Typing Animation" /> </div>
+👋 Hi there!
+I'm Surdeep Rathore, a pre-final year Electrical Engineering undergraduate at NIT Delhi. I’m passionate about:
+
+🌐 Web Development
+💻 Competitive Programming
+🤖 Machine Learning
+I love solving real-world problems and building innovative projects that make an impact. 🚀
 
 🌟 About Me
-🎓 Student at National Institute of Technology, Delhi
-🛠️ Skilled in HTML, CSS, JavaScript, React.js, Node.js, Express.js
+🎓 Student at NIT Delhi
+🛠️ Skilled in HTML, CSS, JavaScript, React.js, Node.js, and Express.js
 💻 Proficient in C++ for problem-solving and competitive programming
 🤖 Pursuing a Minor in AI and ML
 🌍 Based in Agra, India
@@ -24,9 +31,9 @@ Created an engaging website for EE and ECE branches at my college with detailed 
 
 🌱 What I'm Learning
 Advanced React.js concepts
-Machine Learning algorithms
-Scalable backend development
+Core Machine Learning algorithms
+Building scalable backend systems
 📫 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/surdeep-rathore" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/surdeep-rathore04/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:sudeeprathore98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </div>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SurdeepRathore&show_icons=true&theme=radical" alt="Surdeep's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurdeepRathore&layout=compact&theme=radical" alt="Top Languages" /> </div>
