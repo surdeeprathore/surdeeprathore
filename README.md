@@ -37,24 +37,6 @@ Building scalable backend systems
 <div align="center"> <a href="https://www.linkedin.com/in/surdeep-rathore04/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:sudeeprathore98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </div>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SurdeepRathore&show_icons=true&theme=radical" alt="Surdeep's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurdeepRathore&layout=compact&theme=radical" alt="Top Languages" /> </div>
-This version adds some animated effects and maintains a clean, modern structure. Let me know if you'd like custom banners or images for further personalization!
+ 
 
 
-
-
-
-
-You said:
-write the somthing for the github profile describtion
-ChatGPT said:
-ChatGPT
-Here’s a concise and professional description you can use for your GitHub profile:
-
-🌟 Hi there! I’m Surdeep Rathore
-🚀 Pre-final Year EE Undergrad @ NIT Delhi | Web Developer | ML Enthusiast
-
-🔧 Skills: HTML | CSS | JavaScript | React | Node.js | Express.js | C++
-💻 Focus Areas: Full-Stack Development | Problem Solving | AI & ML
-🎯 Passion: Building innovative projects and solving real-world challenges
-
-📫 Let's connect and collaborate!
