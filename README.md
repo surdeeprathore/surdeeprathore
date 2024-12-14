@@ -1,7 +1,7 @@
-💻 Surdeep Rathore
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Web+Developer;Problem+Solver;Tech+Enthusiast;Innovative+Learner" alt="Typing Animation" /> </div>
-👋 Hi there!
+Hi 👋 there!
 I'm Surdeep Rathore, a pre-final year Electrical Engineering undergraduate at NIT Delhi. I’m passionate about:
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Web+Developer;Problem+Solver;Tech+Enthusiast;Innovative+Learner" alt="Typing Animation" /> </div>
+
 
 🌐 Web Development
 💻 Competitive Programming
