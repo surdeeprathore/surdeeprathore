@@ -44,5 +44,3 @@
 
 <!-- GitHub Stats -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surdeeprathore&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surdeeprathore&&theme=tokyonight" alt="GitHub Streak" /></p>
