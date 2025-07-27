@@ -32,7 +32,7 @@
  <a href="https://surdeepfortfolio.netlify.app/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726056.png" alt="Instagram" height="30" width="40" />
   </a>
-   <a href="https://leetcode.com/u/pixel_code/" target="blank">
+   <a href="https://leetcode.com/u/pixel_code78/" target="blank">
     <img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="Instagram" height="30" width="40" />
   </a>
 </p>
